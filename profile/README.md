@@ -1,4 +1,4 @@
-## Hi there 👋
+## IMCI-PLUS 🩺
 
 <!--
 
@@ -10,3 +10,12 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+## About this organisation  
+This GitHub organization hosts repositories dedicated to the development of code and tools for the IMCI-PLUS project. It serves as a collaborative platform for managing, analyzing, and reviewing data, as well as for creating and sharing algorithms, scripts, and resources that advance the project's mission.
+---
+
+## About IMCI-PLUS  
+IMCI-PLUS is an interdisciplinary, Pan-African-EU research partnership aimed at improving the management of pediatric lower respiratory tract infections (LRTI) – the leading cause of child morbidity and mortality in Sub-Saharan Africa. By emphasizing capacity strengthening and mutual learning, the project works towards integrating point-of-care lung ultrasound (PLUS) into healthcare policy and routine clinical practice.
+
+IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan African countries: **Senegal**, **South Africa**, and **Tanzania**. The project combines a prospective randomized controlled trial (RCT) with implementation research (IR) to assess the real-world impact (antibiotic prescribing and clinical outcomes) and economic impact (cost and cost-effectiveness) of incorporating PLUS into LRTI management.
