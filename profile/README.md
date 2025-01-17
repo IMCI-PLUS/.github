@@ -18,3 +18,18 @@ This GitHub organization hosts repositories dedicated to the development of code
 IMCI-PLUS is an interdisciplinary, Pan-African-EU research partnership aimed at improving the management of pediatric lower respiratory tract infections (LRTI) – the leading cause of child morbidity and mortality in Sub-Saharan Africa. By emphasizing capacity strengthening and mutual learning, the project works towards integrating point-of-care lung ultrasound (PLUS) into healthcare policy and routine clinical practice.
 
 IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan African countries: **Senegal**, **South Africa**, and **Tanzania**. The project combines a prospective randomized controlled trial (RCT) with implementation research (IR) to assess the real-world impact (antibiotic prescribing and clinical outcomes) and economic impact (cost and cost-effectiveness) of incorporating PLUS into LRTI management.
+
+## Available repositories
+
+### REDcap data
+
+- RCT-Data-Ingestion: Python code for exporting data from a remote REDCap instance
+
+## Multimodal data
+
+- multimodal_data_review
+
+### Implementation Research (IR)
+
+- IR_monitoring: R code for a dashboard for monitoring the collection of quantitative data
+- IR_analysis: R code for analysing facility assessments and observations
