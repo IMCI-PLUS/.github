@@ -29,7 +29,7 @@ IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan Afric
 
 - multimodal_data_review
 
-### Implementation Research (IR)
+### Implementation Research (IR) - Phase 1
 
 - IR_monitoring: R code for a dashboard for monitoring the collection of quantitative data
 - IR_analysis: R code for analysing facility assessments and observations
