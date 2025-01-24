@@ -25,11 +25,11 @@ IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan Afric
 
 - RCT-Data-Ingestion: Python code for exporting data from a remote REDCap instance
 
-## Multimodal data
+### Multimodal data
 
 - multimodal_data_review
 
-### Implementation Research (IR) - Phase 1
+### Implementation Research (IR) - Phase 1 data
 
 - IMCI-PLUS-IR-ODK_forms: XLSForms for phase 1
 - IMCI-PLUS-IR_monitoring: R code for a dashboard for monitoring the collection of quantitative data
