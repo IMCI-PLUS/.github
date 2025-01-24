@@ -31,5 +31,6 @@ IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan Afric
 
 ### Implementation Research (IR) - Phase 1
 
-- IR_monitoring: R code for a dashboard for monitoring the collection of quantitative data
-- IR_analysis: R code for analysing facility assessments and observations
+- IMCI-PLUS-IR-ODK_forms: XLSForms for phase 1
+- IMCI-PLUS-IR_monitoring: R code for a dashboard for monitoring the collection of quantitative data
+- IMCI-PLUS-IR_analysis: R code for analysing facility assessments and observations
