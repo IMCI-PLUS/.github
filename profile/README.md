@@ -28,7 +28,7 @@ IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan Afric
 ### Multimodal data
 
 - [multimodal_data_review](https://github.com/IMCI-PLUS/multimodal_data_review)
-- [LUS_QA_sync]((https://github.com/IMCI-PLUS/LUS_QA_sync)
+- [LUS_QA_sync](https://github.com/IMCI-PLUS/LUS_QA_sync)
 
 ### Implementation Research (IR) - Phase 1 data
 
