@@ -24,11 +24,11 @@ IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan Afric
 ### REDcap data
 
 - [RCT-Data-Ingestion](https://github.com/IMCI-PLUS/RCT-Data-Ingestion): Python code for exporting data from a remote REDCap instance
+- [LUS_QA_sync](https://github.com/IMCI-PLUS/LUS_QA_sync)
 
 ### Multimodal data
 
 - [multimodal_data_review](https://github.com/IMCI-PLUS/multimodal_data_review)
-- [LUS_QA_sync](https://github.com/IMCI-PLUS/LUS_QA_sync)
 
 ### Implementation Research (IR) - Phase 1 data
 
