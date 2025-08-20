@@ -35,4 +35,4 @@ IMCI-PLUS operates in diverse healthcare settings across three Sub-Saharan Afric
 
 - [IMCI-PLUS-IR_collection](https://github.com/IMCI-PLUS/IR_collection): ODK XLS forms for data collection in IR phase 1, to be adapted for phase 2 - lead Swiss TPH, support IHI
 - [IMCI-PLUS-IR_monitoring](https://github.com/IMCI-PLUS/IR_Monitoring): R code for a dashboard for monitoring the collection of quantitative data - lead IHI, support Swiss TPH
-- [IMCI-PLUS-IR_analysis](https://github.com/IMCI-PLUS/IR_analysis): R code for analysing facility assessments and observations - lead Swiss TPH, support IHI
+- [IMCI-PLUS-IR_analysis](https://github.com/IMCI-PLUS/IR_analysis): R code for processing and analysing facility assessments and observations - lead Swiss TPH, support IHI
